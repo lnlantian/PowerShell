@@ -5,19 +5,16 @@ Welcome to the PowerShell GitHub Community!
 PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
 It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
 
-
 [logo]: assets/Powershell_64.png
 
 New to PowerShell?
 ------------------
-
 If you are new to PowerShell and would like to learn more, we recommend reviewing the [getting started][] documentation.
 
 [getting started]: docs/learning-powershell
 
 Get PowerShell
 --------------
-
 You can download and install a PowerShell package for any of the following platforms.
 
 | Platform                           | Downloads              | How to Install                |
